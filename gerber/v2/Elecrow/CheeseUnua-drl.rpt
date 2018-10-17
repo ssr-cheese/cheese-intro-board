@@ -1,0 +1,31 @@
+Drill report for /home/dango/kicad/project/CheeseUnua/CheeseUnua.kicad_pcb
+Created on 2018年10月17日 23時37分33秒
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'CheeseUnua-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (67 holes)
+    T2  0.70mm  0.028"  (50 holes)
+    T3  0.76mm  0.030"  (23 holes)
+    T4  0.80mm  0.031"  (50 holes)
+    T5  0.81mm  0.032"  (2 holes)
+    T6  0.90mm  0.035"  (10 holes)
+    T7  1.00mm  0.039"  (91 holes)  (with 3 slots)
+    T8  1.00mm  0.039"  (2 holes)
+    T9  1.05mm  0.041"  (2 holes)
+    T10  1.10mm  0.043"  (4 holes)
+
+    Total plated holes count 301
+
+
+Drill file 'CheeseUnua-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

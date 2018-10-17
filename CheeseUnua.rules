@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 2362)
+    (start_pass_no 2977)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -93,7 +93,7 @@
     SW BUZZER "7SEG_A" "7SEG_B" "7SEG_C" "7SEG_D" "IR_LED" "MOTOR_CLK"
     "7SEG_E" "7SEG_F" "7SEG_G" "7SEG_H" "MOTOR_MODE" "MOTOR_DIR" "Net-(L1-Pad2)" "Net-(Q1-Pad1)"
     "Net-(Q2-Pad1)" "Net-(Q2-Pad3)" "Net-(R15-Pad1)" "Net-(R16-Pad1)" "Net-(R17-Pad1)" "Net-(R18-Pad1)" "Net-(R19-Pad1)" "Net-(R20-Pad1)"
-    "Net-(R21-Pad1)" "Net-(R22-Pad1)" "Net-(R23-Pad2)"
+    "Net-(R21-Pad1)" "Net-(R22-Pad1)" "Net-(R23-Pad2)" "Net-(C3-Pad2)" "Net-(R3-Pad2)" "Net-(R11-Pad1)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
