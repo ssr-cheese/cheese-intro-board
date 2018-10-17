@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CheeseUnua-rescue)(type Legacy)(uri ${KIPRJMOD}/CheeseUnua-rescue.lib)(options "")(descr ""))
+)
